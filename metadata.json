@@ -1,6 +1,6 @@
 {
-  "name": "PhytoScan Offline",
-  "description": "A high-performance offline disease detection system for Kangkung using local edge vision heuristics. No internet or API keys required.",
+  "name": "Copy of PhytoScan",
+  "description": "An advanced AI-powered disease detection system for Kangkung (Water Spinach), specialized in identifying and managing Cercospora Leaf Spot stages (H0-E3).",
   "requestFramePermissions": [
     "camera"
   ]
